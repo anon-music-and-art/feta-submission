@@ -1,7 +1,8 @@
 body {
     margin: 0;
     color: #777;
-    font: 400 15px/1.8 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18pt;
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
@@ -58,6 +59,7 @@ body {
     width: 100%;
     color: #000;
     text-align: center;
+    line-height: 2;
 }
 
 .description-container {
@@ -78,7 +80,7 @@ body {
     background-color: rgba(120, 120, 120, 0.7);
     font-size: 80px;
     letter-spacing: 10px;
-    font: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-style: italic;
     letter-spacing: 20px;
 }
@@ -91,7 +93,7 @@ body {
     background-color: rgba(120, 120, 120, 0.7);
     font-size: 40px;
     letter-spacing: 10px;
-    font: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     letter-spacing: 20px;
     /*position: absolute;*/
     text-align: center;
@@ -100,7 +102,7 @@ body {
 h3 {
     /*color: #111;*/
     text-transform: uppercase;
-    /*font: 20px 'Josefin Sans', sans-serif;*/
+    /*font-family: 20px 'Josefin Sans', sans-serif;*/
     letter-spacing: 5px;
 }
 
