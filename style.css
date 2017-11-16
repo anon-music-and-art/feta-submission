@@ -167,6 +167,7 @@ iframe {
         font-size: 26px;
         letter-spacing: 18px;
         padding: 8px;
+    }
 }
 @media only screen and (max-width: 488px) {
     .caption span.border {
@@ -178,4 +179,9 @@ iframe {
         font-size: 22px;
         letter-spacing: 10px;
         padding: 5px;
+    }
+
+    body {
+        font-size: 12pt;
+    }
 }
