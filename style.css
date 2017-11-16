@@ -184,4 +184,12 @@ iframe {
     body {
         font-size: 12pt;
     }
+
+    .hero {
+        padding: 50px 0px;
+    }
+
+    .description {
+        padding: 50px 30px;
+    }
 }
